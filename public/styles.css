@@ -1,4 +1,12 @@
 body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://i.ibb.co/286RL8q/desktop-wallpaper-stunning-galaxy-high-resolution-s-collection-winter-galaxy-2.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #333;
+    padding: 20px;
+  }body {
      padding: 20px;
      background-color: #f8f9fa;
      font-family: 'Poppins', sans-serif;
@@ -119,3 +127,13 @@ body {
 #listOfCommands:not(.modal), #listOfCommandsEvent:not(.modal), #prefixOfCommands:not(.modal), #adminOfCommands:not(.modal) {
   box-shadow: none !important;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://i.ibb.co/VjgrYnr/ca7219442bd6cd36d1ce3dee782d909d.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #333;
+    padding: 20px;
+  }
