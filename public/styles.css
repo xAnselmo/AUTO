@@ -180,7 +180,8 @@ body {
 
 .disable {
         display: none;
-}
+
+#inputOfPrefix, #inputOfAdmin} 
         padding: 13px;
         width: 200px;
         border: 1px solid #ccc;
