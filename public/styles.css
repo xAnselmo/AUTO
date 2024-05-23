@@ -71,7 +71,7 @@ body {
 
 .container {
            color: #FFFF;
-           background: #000000;
+           background: #00FF00","#FF0000","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00;
                  border-radius: 10px;
                  padding: 20px;
            box-shadow: 0 0 .2rem #fff,0 0 .2rem #fff, 0 0 2rem #1F51FF,
@@ -88,7 +88,7 @@ body {
                  margin-bottom: 15px;
 }
  label {
-                 background-color: #FFFFFF;
+                 background-color: #00FF00","#FF0000","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00","#00FF00;
            color: #343434;
                  border-radius: 10px;
                  font-weight: bold;
@@ -181,8 +181,6 @@ body {
 .disable {
         display: none;
 }
-
-#APPSATE, #LINK, {
         padding: 13px;
         width: 200px;
         border: 1px solid #ccc;
